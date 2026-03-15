@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "name": "Ana Lima",
+    "age": 25,
+    "watchHistory": [
+      {
+        "id": 1,
+        "title": "Interstellar",
+        "genres": ["Sci-Fi", "Drama", "Adventure"],
+        "year": 2014,
+        "rating": 8.7,
+        "duration": 169,
+        "language": "English"
+      },
+      {
+        "id": 8,
+        "title": "Arrival",
+        "genres": ["Sci-Fi", "Drama", "Mystery"],
+        "year": 2016,
+        "rating": 7.9,
+        "duration": 116,
+        "language": "English"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bruno Ferreira",
+    "age": 27,
+    "watchHistory": [
+      {
+        "id": 2,
+        "title": "The Dark Knight",
+        "genres": ["Action", "Crime", "Drama"],
+        "year": 2008,
+        "rating": 9.0,
+        "duration": 152,
+        "language": "English"
+      },
+      {
+        "id": 6,
+        "title": "Mad Max: Fury Road",
+        "genres": ["Action", "Sci-Fi", "Adventure"],
+        "year": 2015,
+        "rating": 8.1,
+        "duration": 120,
+        "language": "English"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Camila Souza",
+    "age": 30,
+    "watchHistory": [
+      {
+        "id": 5,
+        "title": "La La Land",
+        "genres": ["Romance", "Drama", "Musical"],
+        "year": 2016,
+        "rating": 8.0,
+        "duration": 128,
+        "language": "English"
+      },
+      {
+        "id": 9,
+        "title": "Whiplash",
+        "genres": ["Drama", "Music"],
+        "year": 2014,
+        "rating": 8.5,
+        "duration": 107,
+        "language": "English"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Diego Almeida",
+    "age": 22,
+    "watchHistory": [
+      {
+        "id": 3,
+        "title": "Spirited Away",
+        "genres": ["Animation", "Fantasy", "Adventure"],
+        "year": 2001,
+        "rating": 8.6,
+        "duration": 125,
+        "language": "Japanese"
+      },
+      {
+        "id": 10,
+        "title": "Your Name",
+        "genres": ["Animation", "Romance", "Fantasy"],
+        "year": 2016,
+        "rating": 8.4,
+        "duration": 106,
+        "language": "Japanese"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Eduarda Nunes",
+    "age": 28,
+    "watchHistory": [
+      {
+        "id": 4,
+        "title": "Parasite",
+        "genres": ["Thriller", "Drama", "Comedy"],
+        "year": 2019,
+        "rating": 8.5,
+        "duration": 132,
+        "language": "Korean"
+      },
+      {
+        "id": 7,
+        "title": "The Grand Budapest Hotel",
+        "genres": ["Comedy", "Crime", "Adventure"],
+        "year": 2014,
+        "rating": 8.1,
+        "duration": 99,
+        "language": "English"
+      }
+    ]
+  }
+]
